@@ -1,5 +1,5 @@
 # A295.py
-
+# de
 a = raw_input()
 string = raw_input()
 judge = 0
