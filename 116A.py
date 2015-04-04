@@ -1,5 +1,5 @@
 # 116A.py
-# lala
+
 capacity = 0
 current = 0
 for _ in range(input()):
