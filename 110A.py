@@ -10,4 +10,4 @@ if ans == 4 or ans == 7:
 	print 'YES'
 else:
 	print 'NO'
-print 'IT's'
+print 'IT's a good idea'
